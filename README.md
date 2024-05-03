@@ -4,8 +4,12 @@
 # 연구 내용
 Normal, Cyst, Tumor, Stone Classification
 
+<br/> 
+
 # 사용한 모델
 VGG19, Grad-Cam
+
+<br/> 
 
 # 결과
 
