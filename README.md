@@ -1,4 +1,4 @@
-# kidney_stone_classification
+# classification
 
 
 # 연구 내용
